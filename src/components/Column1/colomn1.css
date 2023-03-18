@@ -1,0 +1,8 @@
+.menu-panel{
+    width: 214px;
+    height: 575px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #F3F2F1;
+}

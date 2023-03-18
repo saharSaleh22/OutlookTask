@@ -1,0 +1,29 @@
+.menu-element{
+    display: flex;
+    align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.menu-element p{
+    margin: 0;
+}
+.menu-element span{
+    margin-right: 22px;
+    margin-left: 17.5px;
+}
+.menu-element:hover{
+    background-color: #C7E0F4;
+}
+.menu-element:hover a{
+    color:#005A9E ;
+}
+a{
+    text-decoration: none;
+    color: rgba(50,49,48,1);
+    font-family: "SegoeUI";
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0px;
+    text-align: left;
+}
