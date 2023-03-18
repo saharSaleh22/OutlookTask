@@ -1,0 +1,5 @@
+.panel-icons{
+    display: flex;
+    justify-content: space-between;
+    padding: 19px;
+}
